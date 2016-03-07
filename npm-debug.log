@@ -1,0 +1,875 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'i',
+1 verbose cli   '-D',
+1 verbose cli   'babel-core',
+1 verbose cli   'babel-loader',
+1 verbose cli   'babel-preset-es2015babel-preset-recat',
+1 verbose cli   'react-hot-loader',
+1 verbose cli   'webpack',
+1 verbose cli   'webpack-dev-server' ]
+2 info using npm@2.14.12
+3 info using node@v4.3.1
+4 verbose install initial load of C:\Users\deergha\Desktop\react-todos\package.json
+5 warn package.json react-todos@1.0.0 No description
+6 warn package.json react-todos@1.0.0 No repository field.
+7 warn package.json react-todos@1.0.0 No README data
+8 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\abbrev\package.json
+9 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\accepts\package.json
+10 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\after\package.json
+11 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\align-text\package.json
+12 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\amdefine\package.json
+13 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\ansi-regex\package.json
+14 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\ansi-styles\package.json
+15 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\anymatch\package.json
+16 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\archy\package.json
+17 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\arr-diff\package.json
+18 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\arr-flatten\package.json
+19 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\array-differ\package.json
+20 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\array-uniq\package.json
+21 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\array-unique\package.json
+22 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\arraybuffer.slice\package.json
+23 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\arrify\package.json
+24 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\asn1\package.json
+25 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\assert-plus\package.json
+26 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\async\package.json
+27 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\async-each\package.json
+28 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\async-each-series\package.json
+29 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\aws-sign2\package.json
+30 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\aws4\package.json
+31 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\backo2\package.json
+32 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\balanced-match\package.json
+33 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\base64-arraybuffer\package.json
+34 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\base64id\package.json
+35 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\batch\package.json
+36 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\beeper\package.json
+37 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\benchmark\package.json
+38 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\better-assert\package.json
+39 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\binary-extensions\package.json
+40 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\binaryextensions\package.json
+41 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\bindings\package.json
+42 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\bl\package.json
+43 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\blob\package.json
+44 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\block-stream\package.json
+45 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\bluebird\package.json
+46 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\boom\package.json
+47 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\brace-expansion\package.json
+48 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\braces\package.json
+49 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\browser-sync\package.json
+50 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\browser-sync-client\package.json
+51 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\browser-sync-ui\package.json
+52 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\bs-recipes\package.json
+53 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\bufferutil\package.json
+54 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\builtin-modules\package.json
+55 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\callsite\package.json
+56 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\camelcase\package.json
+57 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\camelcase-keys\package.json
+58 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\caseless\package.json
+59 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\center-align\package.json
+60 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\chalk\package.json
+61 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\chokidar\package.json
+62 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\cliui\package.json
+63 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\clone\package.json
+64 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\clone-stats\package.json
+65 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\code-point-at\package.json
+66 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\combined-stream\package.json
+67 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\commander\package.json
+68 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\component-bind\package.json
+69 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\component-emitter\package.json
+70 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\component-inherit\package.json
+71 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\concat-map\package.json
+72 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\connect\package.json
+73 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\connect-history-api-fallback\package.json
+74 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\core-js\package.json
+75 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\core-util-is\package.json
+76 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\cryptiles\package.json
+77 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\ctype\package.json
+78 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\d\package.json
+79 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\dashdash\package.json
+80 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\dateformat\package.json
+81 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\debug\package.json
+82 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\decamelize\package.json
+83 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\defaults\package.json
+84 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\delayed-stream\package.json
+85 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\depd\package.json
+86 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\deprecated\package.json
+87 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\destroy\package.json
+88 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\dev-ip\package.json
+89 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\duplexer2\package.json
+90 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\easy-extender\package.json
+91 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\eazy-logger\package.json
+92 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\ecc-jsbn\package.json
+93 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\ee-first\package.json
+94 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\emitter-steward\package.json
+95 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\end-of-stream\package.json
+96 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\engine.io\package.json
+97 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\engine.io-client\package.json
+98 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\engine.io-parser\package.json
+99 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\err-code\package.json
+100 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\error-ex\package.json
+101 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\es5-ext\package.json
+102 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\es6-iterator\package.json
+103 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\es6-module-loader\package.json
+104 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\es6-symbol\package.json
+105 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\es6-template-strings\package.json
+106 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\escape-html\package.json
+107 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\escape-string-regexp\package.json
+108 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\eslint-config-airbnb\package.json
+109 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\eslint-plugin-react\package.json
+110 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\esniff\package.json
+111 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\etag\package.json
+112 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\eventemitter3\package.json
+113 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\expand-brackets\package.json
+114 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\expand-range\package.json
+115 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\expand-tilde\package.json
+116 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\express\package.json
+117 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\extend\package.json
+118 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\extglob\package.json
+119 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\extsprintf\package.json
+120 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\fancy-log\package.json
+121 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\fd-slicer\package.json
+122 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\filename-regex\package.json
+123 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\fill-range\package.json
+124 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\finalhandler\package.json
+125 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\find-index\package.json
+126 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\find-up\package.json
+127 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\findup-sync\package.json
+128 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\first-chunk-stream\package.json
+129 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\flagged-respawn\package.json
+130 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\for-in\package.json
+131 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\for-own\package.json
+132 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\forever-agent\package.json
+133 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\form-data\package.json
+134 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\formidable\package.json
+135 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\foxy\package.json
+136 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\fresh\package.json
+137 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\fs-extra\package.json
+138 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\fsevents\package.json
+139 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\fstream\package.json
+140 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\gaze\package.json
+141 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\generate-function\package.json
+142 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\generate-object-property\package.json
+143 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\get-stdin\package.json
+144 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\glob\package.json
+145 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\glob-base\package.json
+146 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\glob-parent\package.json
+147 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\glob-stream\package.json
+148 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\glob-watcher\package.json
+149 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\glob2base\package.json
+150 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\global\package.json
+151 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\globule\package.json
+152 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\glogg\package.json
+153 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\graceful-fs\package.json
+154 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\graceful-readlink\package.json
+155 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\gulp\package.json
+156 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\gulp-replace\package.json
+157 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\gulp-util\package.json
+158 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\gulplog\package.json
+159 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\har-validator\package.json
+160 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\has-ansi\package.json
+161 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\has-binary\package.json
+162 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\has-binary-data\package.json
+163 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\has-cors\package.json
+164 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\has-gulplog\package.json
+165 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\hawk\package.json
+166 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\hoek\package.json
+167 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\hosted-git-info\package.json
+168 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\http-errors\package.json
+169 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\http-proxy\package.json
+170 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\http-signature\package.json
+171 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\immutable\package.json
+172 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\indent-string\package.json
+173 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\indexof\package.json
+174 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\inflight\package.json
+175 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\inherits\package.json
+176 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\interpret\package.json
+177 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\invert-kv\package.json
+178 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is\package.json
+179 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-absolute\package.json
+180 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-arrayish\package.json
+181 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-binary-path\package.json
+182 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-buffer\package.json
+183 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-builtin-module\package.json
+184 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-dotfile\package.json
+185 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-equal-shallow\package.json
+186 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-extendable\package.json
+187 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-extglob\package.json
+188 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-finite\package.json
+189 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-fullwidth-code-point\package.json
+190 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-glob\package.json
+191 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-my-json-valid\package.json
+192 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-number\package.json
+193 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-primitive\package.json
+194 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-property\package.json
+195 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-relative\package.json
+196 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-typedarray\package.json
+197 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\is-utf8\package.json
+198 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\isarray\package.json
+199 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\isexe\package.json
+200 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\isobject\package.json
+201 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\isstream\package.json
+202 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\istextorbinary\package.json
+203 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\jodid25519\package.json
+204 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\jsbn\package.json
+205 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\json-schema\package.json
+206 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\json-stringify-safe\package.json
+207 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\json3\package.json
+208 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\jsonfile\package.json
+209 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\jsonpointer\package.json
+210 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\jspm\package.json
+211 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\jspm-github\package.json
+212 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\jspm-npm\package.json
+213 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\jspm-registry\package.json
+214 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\jsprim\package.json
+215 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\kind-of\package.json
+216 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\klaw\package.json
+217 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lazy-cache\package.json
+218 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lcid\package.json
+219 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\liftoff\package.json
+220 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\limiter\package.json
+221 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\load-json-file\package.json
+222 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\localtunnel\package.json
+223 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash\package.json
+224 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._arraycopy\package.json
+225 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._arrayeach\package.json
+226 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._basecopy\package.json
+227 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._basefor\package.json
+228 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._basetostring\package.json
+229 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._basevalues\package.json
+230 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._bindcallback\package.json
+231 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._createassigner\package.json
+232 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._getnative\package.json
+233 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._isiterateecall\package.json
+234 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._reescape\package.json
+235 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._reevaluate\package.json
+236 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash._reinterpolate\package.json
+237 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash.escape\package.json
+238 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash.isarguments\package.json
+239 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash.isarray\package.json
+240 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash.isplainobject\package.json
+241 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash.istypedarray\package.json
+242 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash.keys\package.json
+243 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash.keysin\package.json
+244 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash.merge\package.json
+245 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash.restparam\package.json
+246 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash.template\package.json
+247 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash.templatesettings\package.json
+248 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lodash.toplainobject\package.json
+249 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\longest\package.json
+250 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\loud-rejection\package.json
+251 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\lru-cache\package.json
+252 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\map-obj\package.json
+253 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\meow\package.json
+254 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\micromatch\package.json
+255 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\mime\package.json
+256 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\mime-db\package.json
+257 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\mime-types\package.json
+258 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\minimatch\package.json
+259 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\minimist\package.json
+260 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\mkdirp\package.json
+261 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\ms\package.json
+262 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\multipipe\package.json
+263 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\nan\package.json
+264 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\ncp\package.json
+265 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\negotiator\package.json
+266 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\netrc\package.json
+267 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\node-uuid\package.json
+268 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\node.extend\package.json
+269 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\node.flow\package.json
+270 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\nopt\package.json
+271 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\normalize-package-data\package.json
+272 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\normalize-path\package.json
+273 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\number-is-nan\package.json
+274 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\oauth-sign\package.json
+275 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\object-assign\package.json
+276 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\object-component\package.json
+277 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\object-keys\package.json
+278 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\object-path\package.json
+279 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\object.omit\package.json
+280 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\on-finished\package.json
+281 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\once\package.json
+282 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\openurl\package.json
+283 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\opn\package.json
+284 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\opt-merger\package.json
+285 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\options\package.json
+286 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\orchestrator\package.json
+287 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\ordered-read-streams\package.json
+288 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\os-homedir\package.json
+289 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\os-locale\package.json
+290 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\parse-glob\package.json
+291 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\parse-json\package.json
+292 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\parsejson\package.json
+293 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\parseqs\package.json
+294 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\parseuri\package.json
+295 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\parseurl\package.json
+296 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\path-exists\package.json
+297 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\path-is-absolute\package.json
+298 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\path-type\package.json
+299 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\pend\package.json
+300 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\pify\package.json
+301 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\pinkie\package.json
+302 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\pinkie-promise\package.json
+303 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\portscanner\package.json
+304 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\preserve\package.json
+305 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\pretty-hrtime\package.json
+306 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\process-nextick-args\package.json
+307 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\proper-lockfile\package.json
+308 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\qs\package.json
+309 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\query-string\package.json
+310 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\randomatic\package.json
+311 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\range-parser\package.json
+312 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\react\package.json
+313 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\react-dom\package.json
+314 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\read-pkg\package.json
+315 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\read-pkg-up\package.json
+316 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\readable-stream\package.json
+317 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\readdirp\package.json
+318 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\rechoir\package.json
+319 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\redent\package.json
+320 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\regex-cache\package.json
+321 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\repeat-element\package.json
+322 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\repeat-string\package.json
+323 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\repeating\package.json
+324 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\replace-ext\package.json
+325 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\replacestream\package.json
+326 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\request\package.json
+327 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\requires-port\package.json
+328 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\resolve\package.json
+329 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\resp-modifier\package.json
+330 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\retry\package.json
+331 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\right-align\package.json
+332 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\rimraf\package.json
+333 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\rmdir\package.json
+334 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\rollup\package.json
+335 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\rsvp\package.json
+336 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\semver\package.json
+337 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\send\package.json
+338 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\sequencify\package.json
+339 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\serve-index\package.json
+340 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\serve-static\package.json
+341 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\sigmund\package.json
+342 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\signal-exit\package.json
+343 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\sntp\package.json
+344 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\socket.io\package.json
+345 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\socket.io-adapter\package.json
+346 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\socket.io-client\package.json
+347 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\socket.io-parser\package.json
+348 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\source-map\package.json
+349 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\source-map-support\package.json
+350 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\sparkles\package.json
+351 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\spdx-correct\package.json
+352 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\spdx-exceptions\package.json
+353 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\spdx-expression-parse\package.json
+354 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\spdx-license-ids\package.json
+355 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\sshpk\package.json
+356 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\statuses\package.json
+357 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\stream-consume\package.json
+358 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\stream-throttle\package.json
+359 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\strict-uri-encode\package.json
+360 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\string-width\package.json
+361 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\string_decoder\package.json
+362 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\stringstream\package.json
+363 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\strip-ansi\package.json
+364 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\strip-bom\package.json
+365 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\strip-indent\package.json
+366 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\supports-color\package.json
+367 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\systemjs\package.json
+368 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\systemjs-builder\package.json
+369 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\tar\package.json
+370 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\textextensions\package.json
+371 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\tfunk\package.json
+372 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\through2\package.json
+373 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\tildify\package.json
+374 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\to-array\package.json
+375 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\tough-cookie\package.json
+376 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\traceur\package.json
+377 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\trim-newlines\package.json
+378 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\tunnel-agent\package.json
+379 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\tweetnacl\package.json
+380 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\ua-parser-js\package.json
+381 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\ucfirst\package.json
+382 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\uglify-js\package.json
+383 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\uglify-to-browserify\package.json
+384 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\ultron\package.json
+385 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\underscore\package.json
+386 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\unique-stream\package.json
+387 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\unpipe\package.json
+388 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\user-home\package.json
+389 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\utf-8-validate\package.json
+390 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\utf8\package.json
+391 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\util-deprecate\package.json
+392 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\utils-merge\package.json
+393 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\v8flags\package.json
+394 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\validate-npm-package-license\package.json
+395 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\verror\package.json
+396 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\vinyl\package.json
+397 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\vinyl-fs\package.json
+398 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\weinre\package.json
+399 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\when\package.json
+400 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\which\package.json
+401 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\window-size\package.json
+402 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\wordwrap\package.json
+403 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\wrap-ansi\package.json
+404 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\wrappy\package.json
+405 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\ws\package.json
+406 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\xmlhttprequest\package.json
+407 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\xtend\package.json
+408 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\y18n\package.json
+409 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\yargs\package.json
+410 verbose installManyTop reading scoped package data from C:\Users\deergha\Desktop\react-todos\node_modules\yauzl\package.json
+411 info package.json after@0.8.1 No license field.
+412 info package.json arr-flatten@1.0.1 license should be a valid SPDX license expression
+413 info package.json array-unique@0.2.1 license should be a valid SPDX license expression
+414 info package.json arraybuffer.slice@0.0.6 No license field.
+415 info package.json asn1@0.1.11 No license field.
+416 info package.json assert-plus@0.1.5 No license field.
+417 info package.json aws-sign2@0.5.0 No license field.
+418 info package.json base64-arraybuffer@0.1.2 No license field.
+419 info package.json base64id@0.1.0 No license field.
+420 info package.json batch@0.5.3 No license field.
+421 info package.json benchmark@1.0.0 No license field.
+422 info package.json better-assert@1.0.2 No license field.
+423 info package.json binaryextensions@1.0.0 license should be a valid SPDX license expression
+424 info package.json blob@0.0.4 No license field.
+425 info package.json browser-sync-client@2.4.1 No license field.
+426 info package.json callsite@1.0.0 No repository field.
+427 info package.json callsite@1.0.0 No license field.
+428 info package.json caseless@0.9.0 license should be a valid SPDX license expression
+429 info package.json combined-stream@0.0.7 No license field.
+430 info package.json component-emitter@1.1.2 No license field.
+431 info package.json component-bind@1.0.0 No license field.
+432 info package.json component-inherit@0.0.3 No license field.
+433 info package.json ctype@0.5.3 No license field.
+434 info package.json delayed-stream@0.0.5 No license field.
+435 info package.json deprecated@0.0.1 No license field.
+436 info package.json dev-ip@1.0.1 No license field.
+437 info package.json easy-extender@2.3.2 No license field.
+438 info package.json duplexer2@0.0.2 license should be a valid SPDX license expression
+439 info package.json eazy-logger@2.1.2 No license field.
+440 info package.json engine.io@1.5.4 No license field.
+441 info package.json engine.io-client@1.5.4 No license field.
+442 info package.json engine.io-parser@1.2.2 No license field.
+443 info package.json es6-module-loader@0.17.10 No license field.
+444 info package.json expand-range@1.8.1 license should be a valid SPDX license expression
+445 info package.json expand-tilde@1.2.0 license should be a valid SPDX license expression
+446 info package.json express@2.5.11 No license field.
+447 info package.json extsprintf@1.0.2 No license field.
+448 info package.json filename-regex@2.0.0 license should be a valid SPDX license expression
+449 info package.json findup-sync@0.3.0 No license field.
+450 info package.json for-own@0.1.3 license should be a valid SPDX license expression
+451 info package.json for-in@0.1.4 license should be a valid SPDX license expression
+452 info package.json forever-agent@0.5.2 No license field.
+453 info package.json flagged-respawn@0.3.1 No license field.
+454 info package.json form-data@0.2.0 No license field.
+455 info package.json formidable@1.0.17 No license field.
+456 info package.json gaze@0.5.2 No license field.
+457 info package.json glob-base@0.3.0 license should be a valid SPDX license expression
+458 info package.json glob-stream@3.1.18 No license field.
+459 info package.json glob-watcher@0.0.6 No license field.
+460 info package.json glob2base@0.0.12 No license field.
+461 info package.json globule@0.1.0 No license field.
+462 info package.json has-binary@0.1.6 No repository field.
+463 info package.json has-binary-data@0.1.3 No repository field.
+464 info package.json hawk@2.3.1 No license field.
+465 info package.json indexof@0.0.1 No repository field.
+466 info package.json indexof@0.0.1 No license field.
+467 info package.json is@0.2.7 No license field.
+468 info package.json is-absolute@0.1.7 license should be a valid SPDX license expression
+469 info package.json is-primitive@2.0.0 license should be a valid SPDX license expression
+470 info package.json is-relative@0.1.3 No license field.
+471 info package.json istextorbinary@1.0.2 license should be a valid SPDX license expression
+472 info package.json jsbn@0.1.0 license should be a valid SPDX license expression
+473 info package.json json-schema@0.2.2 No license field.
+474 info package.json json3@3.2.6 No license field.
+475 info package.json limiter@1.1.0 No license field.
+476 info package.json longest@1.0.1 license should be a valid SPDX license expression
+477 info package.json mime@1.2.4 No license field.
+478 info package.json ms@0.7.1 No license field.
+479 info package.json node-uuid@1.4.7 No license field.
+480 info package.json node.extend@1.0.8 No license field.
+481 info package.json node.flow@1.2.3 No license field.
+482 info package.json oauth-sign@0.6.0 No license field.
+483 info package.json object-component@0.0.3 No repository field.
+484 info package.json object-component@0.0.3 No license field.
+485 info package.json options@0.0.6 No license field.
+486 info package.json orchestrator@0.3.7 No license field.
+487 info package.json parsejson@0.0.1 No repository field.
+488 info package.json parseqs@0.0.2 No repository field.
+489 info package.json parseuri@0.0.2 No repository field.
+490 info package.json portscanner@1.0.0 No license field.
+491 info package.json preserve@0.2.0 license should be a valid SPDX license expression
+492 info package.json qs@2.3.3 No license field.
+493 info package.json rechoir@0.6.2 No license field.
+494 info package.json regex-cache@0.4.2 license should be a valid SPDX license expression
+495 info package.json repeat-element@1.1.2 license should be a valid SPDX license expression
+496 info package.json repeat-string@1.5.2 license should be a valid SPDX license expression
+497 info package.json replace-ext@0.0.1 No license field.
+498 info package.json resp-modifier@5.0.2 No license field.
+499 info package.json rmdir@1.1.0 No license field.
+500 info package.json sequencify@0.0.7 No license field.
+501 info package.json sntp@1.0.9 No license field.
+502 info package.json socket.io@1.3.7 No license field.
+503 info package.json socket.io-adapter@0.3.1 No license field.
+504 info package.json string_decoder@0.10.31 string_decoder is also the name of a node core module.
+505 info package.json textextensions@1.0.1 license should be a valid SPDX license expression
+506 info package.json to-array@0.1.3 No license field.
+507 info package.json tweetnacl@0.13.3 license should be a valid SPDX license expression
+508 info package.json ua-parser-js@0.7.10 No license field.
+509 info package.json underscore@1.7.0 No license field.
+510 info package.json unique-stream@1.0.0 license should be a valid SPDX license expression
+511 info package.json utils-merge@1.0.0 No license field.
+512 info package.json v8flags@2.0.11 No license field.
+513 info package.json verror@1.3.6 No license field.
+514 info package.json vinyl-fs@0.3.14 No license field.
+515 info package.json weinre@2.0.0-pre-I0Z7U9OV No license field.
+516 info package.json window-size@0.1.0 No license field.
+517 info package.json wordwrap@0.0.2 license should be a valid SPDX license expression
+518 info package.json xmlhttprequest@1.5.0 No license field.
+519 verbose readDependencies loading dependencies from C:\Users\deergha\Desktop\react-todos\package.json
+520 silly cache add args [ 'babel-core', null ]
+521 verbose cache add spec babel-core
+522 silly cache add args [ 'babel-loader', null ]
+523 verbose cache add spec babel-loader
+524 silly cache add args [ 'babel-preset-es2015babel-preset-recat', null ]
+525 verbose cache add spec babel-preset-es2015babel-preset-recat
+526 silly cache add args [ 'react-hot-loader', null ]
+527 verbose cache add spec react-hot-loader
+528 silly cache add args [ 'webpack', null ]
+529 verbose cache add spec webpack
+530 silly cache add args [ 'webpack-dev-server', null ]
+531 verbose cache add spec webpack-dev-server
+532 silly cache add parsed spec Result {
+532 silly cache add   raw: 'babel-core',
+532 silly cache add   scope: null,
+532 silly cache add   name: 'babel-core',
+532 silly cache add   rawSpec: '',
+532 silly cache add   spec: 'latest',
+532 silly cache add   type: 'tag' }
+533 silly addNamed babel-core@latest
+534 verbose addNamed "latest" is being treated as a dist-tag for babel-core
+535 info addNameTag [ 'babel-core', 'latest' ]
+536 silly mapToRegistry name babel-core
+537 silly mapToRegistry using default registry
+538 silly mapToRegistry registry https://registry.npmjs.org/
+539 silly mapToRegistry uri https://registry.npmjs.org/babel-core
+540 verbose addNameTag registry:https://registry.npmjs.org/babel-core not in flight; fetching
+541 silly cache add parsed spec Result {
+541 silly cache add   raw: 'babel-loader',
+541 silly cache add   scope: null,
+541 silly cache add   name: 'babel-loader',
+541 silly cache add   rawSpec: '',
+541 silly cache add   spec: 'latest',
+541 silly cache add   type: 'tag' }
+542 silly addNamed babel-loader@latest
+543 verbose addNamed "latest" is being treated as a dist-tag for babel-loader
+544 info addNameTag [ 'babel-loader', 'latest' ]
+545 silly mapToRegistry name babel-loader
+546 silly mapToRegistry using default registry
+547 silly mapToRegistry registry https://registry.npmjs.org/
+548 silly mapToRegistry uri https://registry.npmjs.org/babel-loader
+549 verbose addNameTag registry:https://registry.npmjs.org/babel-loader not in flight; fetching
+550 silly cache add parsed spec Result {
+550 silly cache add   raw: 'babel-preset-es2015babel-preset-recat',
+550 silly cache add   scope: null,
+550 silly cache add   name: 'babel-preset-es2015babel-preset-recat',
+550 silly cache add   rawSpec: '',
+550 silly cache add   spec: 'latest',
+550 silly cache add   type: 'tag' }
+551 silly addNamed babel-preset-es2015babel-preset-recat@latest
+552 verbose addNamed "latest" is being treated as a dist-tag for babel-preset-es2015babel-preset-recat
+553 info addNameTag [ 'babel-preset-es2015babel-preset-recat', 'latest' ]
+554 silly mapToRegistry name babel-preset-es2015babel-preset-recat
+555 silly mapToRegistry using default registry
+556 silly mapToRegistry registry https://registry.npmjs.org/
+557 silly mapToRegistry uri https://registry.npmjs.org/babel-preset-es2015babel-preset-recat
+558 verbose addNameTag registry:https://registry.npmjs.org/babel-preset-es2015babel-preset-recat not in flight; fetching
+559 silly cache add parsed spec Result {
+559 silly cache add   raw: 'react-hot-loader',
+559 silly cache add   scope: null,
+559 silly cache add   name: 'react-hot-loader',
+559 silly cache add   rawSpec: '',
+559 silly cache add   spec: 'latest',
+559 silly cache add   type: 'tag' }
+560 silly addNamed react-hot-loader@latest
+561 verbose addNamed "latest" is being treated as a dist-tag for react-hot-loader
+562 info addNameTag [ 'react-hot-loader', 'latest' ]
+563 silly mapToRegistry name react-hot-loader
+564 silly mapToRegistry using default registry
+565 silly mapToRegistry registry https://registry.npmjs.org/
+566 silly mapToRegistry uri https://registry.npmjs.org/react-hot-loader
+567 verbose addNameTag registry:https://registry.npmjs.org/react-hot-loader not in flight; fetching
+568 silly cache add parsed spec Result {
+568 silly cache add   raw: 'webpack',
+568 silly cache add   scope: null,
+568 silly cache add   name: 'webpack',
+568 silly cache add   rawSpec: '',
+568 silly cache add   spec: 'latest',
+568 silly cache add   type: 'tag' }
+569 silly addNamed webpack@latest
+570 verbose addNamed "latest" is being treated as a dist-tag for webpack
+571 info addNameTag [ 'webpack', 'latest' ]
+572 silly mapToRegistry name webpack
+573 silly mapToRegistry using default registry
+574 silly mapToRegistry registry https://registry.npmjs.org/
+575 silly mapToRegistry uri https://registry.npmjs.org/webpack
+576 verbose addNameTag registry:https://registry.npmjs.org/webpack not in flight; fetching
+577 silly cache add parsed spec Result {
+577 silly cache add   raw: 'webpack-dev-server',
+577 silly cache add   scope: null,
+577 silly cache add   name: 'webpack-dev-server',
+577 silly cache add   rawSpec: '',
+577 silly cache add   spec: 'latest',
+577 silly cache add   type: 'tag' }
+578 silly addNamed webpack-dev-server@latest
+579 verbose addNamed "latest" is being treated as a dist-tag for webpack-dev-server
+580 info addNameTag [ 'webpack-dev-server', 'latest' ]
+581 silly mapToRegistry name webpack-dev-server
+582 silly mapToRegistry using default registry
+583 silly mapToRegistry registry https://registry.npmjs.org/
+584 silly mapToRegistry uri https://registry.npmjs.org/webpack-dev-server
+585 verbose addNameTag registry:https://registry.npmjs.org/webpack-dev-server not in flight; fetching
+586 verbose request uri https://registry.npmjs.org/babel-preset-es2015babel-preset-recat
+587 verbose request no auth needed
+588 info attempt registry request try #1 at 9:00:45 PM
+589 verbose request id a8d08c00bfb45dcc
+590 http request GET https://registry.npmjs.org/babel-preset-es2015babel-preset-recat
+591 verbose request uri https://registry.npmjs.org/babel-loader
+592 verbose request no auth needed
+593 info attempt registry request try #1 at 9:00:45 PM
+594 verbose etag "DHV7QV1R4YEFPR2PWM6UKBO7A"
+595 http request GET https://registry.npmjs.org/babel-loader
+596 verbose request uri https://registry.npmjs.org/react-hot-loader
+597 verbose request no auth needed
+598 info attempt registry request try #1 at 9:00:45 PM
+599 verbose etag "7336NMW3QJ5M4O7PZDA67PSI0"
+600 http request GET https://registry.npmjs.org/react-hot-loader
+601 verbose request uri https://registry.npmjs.org/webpack-dev-server
+602 verbose request no auth needed
+603 info attempt registry request try #1 at 9:00:45 PM
+604 verbose etag "2TMQE3D3LTMQZIFE0Q0DRH33S"
+605 http request GET https://registry.npmjs.org/webpack-dev-server
+606 verbose request uri https://registry.npmjs.org/babel-core
+607 verbose request no auth needed
+608 info attempt registry request try #1 at 9:00:45 PM
+609 verbose etag "76XTJAN689TAVP1YT338SCYAA"
+610 http request GET https://registry.npmjs.org/babel-core
+611 verbose request uri https://registry.npmjs.org/webpack
+612 verbose request no auth needed
+613 info attempt registry request try #1 at 9:00:45 PM
+614 verbose etag "BY74DSBOTT66T3H6LS02NEFJR"
+615 http request GET https://registry.npmjs.org/webpack
+616 http 304 https://registry.npmjs.org/webpack-dev-server
+617 verbose headers { date: 'Fri, 04 Mar 2016 05:01:00 GMT',
+617 verbose headers   via: '1.1 varnish',
+617 verbose headers   'cache-control': 'max-age=300',
+617 verbose headers   etag: '"2TMQE3D3LTMQZIFE0Q0DRH33S"',
+617 verbose headers   age: '221',
+617 verbose headers   connection: 'keep-alive',
+617 verbose headers   'x-served-by': 'cache-sin6925-SIN',
+617 verbose headers   'x-cache': 'HIT',
+617 verbose headers   'x-cache-hits': '1',
+617 verbose headers   'x-timer': 'S1457067660.805153,VS0,VE0',
+617 verbose headers   vary: 'Accept' }
+618 silly get cb [ 304,
+618 silly get   { date: 'Fri, 04 Mar 2016 05:01:00 GMT',
+618 silly get     via: '1.1 varnish',
+618 silly get     'cache-control': 'max-age=300',
+618 silly get     etag: '"2TMQE3D3LTMQZIFE0Q0DRH33S"',
+618 silly get     age: '221',
+618 silly get     connection: 'keep-alive',
+618 silly get     'x-served-by': 'cache-sin6925-SIN',
+618 silly get     'x-cache': 'HIT',
+618 silly get     'x-cache-hits': '1',
+618 silly get     'x-timer': 'S1457067660.805153,VS0,VE0',
+618 silly get     vary: 'Accept' } ]
+619 verbose etag https://registry.npmjs.org/webpack-dev-server from cache
+620 verbose get saving webpack-dev-server to C:\Users\deergha\AppData\Roaming\npm-cache\registry.npmjs.org\webpack-dev-server\.cache.json
+621 silly addNameTag next cb for webpack-dev-server with tag latest
+622 silly addNamed webpack-dev-server@1.14.1
+623 verbose addNamed "1.14.1" is a plain semver version for webpack-dev-server
+624 silly cache afterAdd webpack-dev-server@1.14.1
+625 verbose afterAdd C:\Users\deergha\AppData\Roaming\npm-cache\webpack-dev-server\1.14.1\package\package.json not in flight; writing
+626 verbose afterAdd C:\Users\deergha\AppData\Roaming\npm-cache\webpack-dev-server\1.14.1\package\package.json written
+627 http 304 https://registry.npmjs.org/webpack
+628 verbose headers { date: 'Fri, 04 Mar 2016 05:01:00 GMT',
+628 verbose headers   via: '1.1 varnish',
+628 verbose headers   'cache-control': 'max-age=300',
+628 verbose headers   etag: '"BY74DSBOTT66T3H6LS02NEFJR"',
+628 verbose headers   age: '263',
+628 verbose headers   connection: 'keep-alive',
+628 verbose headers   'x-served-by': 'cache-sin6926-SIN',
+628 verbose headers   'x-cache': 'HIT',
+628 verbose headers   'x-cache-hits': '39',
+628 verbose headers   'x-timer': 'S1457067660.926329,VS0,VE0',
+628 verbose headers   vary: 'Accept' }
+629 silly get cb [ 304,
+629 silly get   { date: 'Fri, 04 Mar 2016 05:01:00 GMT',
+629 silly get     via: '1.1 varnish',
+629 silly get     'cache-control': 'max-age=300',
+629 silly get     etag: '"BY74DSBOTT66T3H6LS02NEFJR"',
+629 silly get     age: '263',
+629 silly get     connection: 'keep-alive',
+629 silly get     'x-served-by': 'cache-sin6926-SIN',
+629 silly get     'x-cache': 'HIT',
+629 silly get     'x-cache-hits': '39',
+629 silly get     'x-timer': 'S1457067660.926329,VS0,VE0',
+629 silly get     vary: 'Accept' } ]
+630 verbose etag https://registry.npmjs.org/webpack from cache
+631 verbose get saving webpack to C:\Users\deergha\AppData\Roaming\npm-cache\registry.npmjs.org\webpack\.cache.json
+632 http 304 https://registry.npmjs.org/babel-core
+633 verbose headers { date: 'Fri, 04 Mar 2016 05:01:00 GMT',
+633 verbose headers   via: '1.1 varnish',
+633 verbose headers   'cache-control': 'max-age=300',
+633 verbose headers   etag: '"76XTJAN689TAVP1YT338SCYAA"',
+633 verbose headers   age: '165',
+633 verbose headers   connection: 'keep-alive',
+633 verbose headers   'x-served-by': 'cache-sin6927-SIN',
+633 verbose headers   'x-cache': 'HIT',
+633 verbose headers   'x-cache-hits': '2',
+633 verbose headers   'x-timer': 'S1457067660.929626,VS0,VE0',
+633 verbose headers   vary: 'Accept' }
+634 silly get cb [ 304,
+634 silly get   { date: 'Fri, 04 Mar 2016 05:01:00 GMT',
+634 silly get     via: '1.1 varnish',
+634 silly get     'cache-control': 'max-age=300',
+634 silly get     etag: '"76XTJAN689TAVP1YT338SCYAA"',
+634 silly get     age: '165',
+634 silly get     connection: 'keep-alive',
+634 silly get     'x-served-by': 'cache-sin6927-SIN',
+634 silly get     'x-cache': 'HIT',
+634 silly get     'x-cache-hits': '2',
+634 silly get     'x-timer': 'S1457067660.929626,VS0,VE0',
+634 silly get     vary: 'Accept' } ]
+635 verbose etag https://registry.npmjs.org/babel-core from cache
+636 verbose get saving babel-core to C:\Users\deergha\AppData\Roaming\npm-cache\registry.npmjs.org\babel-core\.cache.json
+637 http 304 https://registry.npmjs.org/babel-loader
+638 verbose headers { date: 'Fri, 04 Mar 2016 05:01:00 GMT',
+638 verbose headers   via: '1.1 varnish',
+638 verbose headers   'cache-control': 'max-age=300',
+638 verbose headers   etag: '"DHV7QV1R4YEFPR2PWM6UKBO7A"',
+638 verbose headers   age: '150',
+638 verbose headers   connection: 'keep-alive',
+638 verbose headers   'x-served-by': 'cache-sin6924-SIN',
+638 verbose headers   'x-cache': 'HIT',
+638 verbose headers   'x-cache-hits': '3',
+638 verbose headers   'x-timer': 'S1457067660.933606,VS0,VE0',
+638 verbose headers   vary: 'Accept' }
+639 silly get cb [ 304,
+639 silly get   { date: 'Fri, 04 Mar 2016 05:01:00 GMT',
+639 silly get     via: '1.1 varnish',
+639 silly get     'cache-control': 'max-age=300',
+639 silly get     etag: '"DHV7QV1R4YEFPR2PWM6UKBO7A"',
+639 silly get     age: '150',
+639 silly get     connection: 'keep-alive',
+639 silly get     'x-served-by': 'cache-sin6924-SIN',
+639 silly get     'x-cache': 'HIT',
+639 silly get     'x-cache-hits': '3',
+639 silly get     'x-timer': 'S1457067660.933606,VS0,VE0',
+639 silly get     vary: 'Accept' } ]
+640 verbose etag https://registry.npmjs.org/babel-loader from cache
+641 verbose get saving babel-loader to C:\Users\deergha\AppData\Roaming\npm-cache\registry.npmjs.org\babel-loader\.cache.json
+642 silly addNameTag next cb for webpack with tag latest
+643 silly addNamed webpack@1.12.14
+644 verbose addNamed "1.12.14" is a plain semver version for webpack
+645 silly cache afterAdd webpack@1.12.14
+646 verbose afterAdd C:\Users\deergha\AppData\Roaming\npm-cache\webpack\1.12.14\package\package.json not in flight; writing
+647 silly addNameTag next cb for babel-core with tag latest
+648 silly addNamed babel-core@6.6.4
+649 verbose addNamed "6.6.4" is a plain semver version for babel-core
+650 silly cache afterAdd babel-core@6.6.4
+651 verbose afterAdd C:\Users\deergha\AppData\Roaming\npm-cache\babel-core\6.6.4\package\package.json not in flight; writing
+652 verbose afterAdd C:\Users\deergha\AppData\Roaming\npm-cache\webpack\1.12.14\package\package.json written
+653 verbose afterAdd C:\Users\deergha\AppData\Roaming\npm-cache\babel-core\6.6.4\package\package.json written
+654 silly addNameTag next cb for babel-loader with tag latest
+655 silly addNamed babel-loader@6.2.4
+656 verbose addNamed "6.2.4" is a plain semver version for babel-loader
+657 silly cache afterAdd babel-loader@6.2.4
+658 verbose afterAdd C:\Users\deergha\AppData\Roaming\npm-cache\babel-loader\6.2.4\package\package.json not in flight; writing
+659 verbose afterAdd C:\Users\deergha\AppData\Roaming\npm-cache\babel-loader\6.2.4\package\package.json written
+660 http 404 https://registry.npmjs.org/babel-preset-es2015babel-preset-recat
+661 verbose headers { 'content-type': 'application/json',
+661 verbose headers   'cache-control': 'max-age=0',
+661 verbose headers   'content-length': '2',
+661 verbose headers   'accept-ranges': 'bytes',
+661 verbose headers   date: 'Fri, 04 Mar 2016 05:01:01 GMT',
+661 verbose headers   via: '1.1 varnish',
+661 verbose headers   age: '0',
+661 verbose headers   connection: 'keep-alive',
+661 verbose headers   'x-served-by': 'cache-sin6927-SIN',
+661 verbose headers   'x-cache': 'MISS',
+661 verbose headers   'x-cache-hits': '0',
+661 verbose headers   'x-timer': 'S1457067660.853673,VS0,VE218' }
+662 silly get cb [ 404,
+662 silly get   { 'content-type': 'application/json',
+662 silly get     'cache-control': 'max-age=0',
+662 silly get     'content-length': '2',
+662 silly get     'accept-ranges': 'bytes',
+662 silly get     date: 'Fri, 04 Mar 2016 05:01:01 GMT',
+662 silly get     via: '1.1 varnish',
+662 silly get     age: '0',
+662 silly get     connection: 'keep-alive',
+662 silly get     'x-served-by': 'cache-sin6927-SIN',
+662 silly get     'x-cache': 'MISS',
+662 silly get     'x-cache-hits': '0',
+662 silly get     'x-timer': 'S1457067660.853673,VS0,VE218' } ]
+663 http 304 https://registry.npmjs.org/react-hot-loader
+664 verbose headers { date: 'Fri, 04 Mar 2016 05:01:01 GMT',
+664 verbose headers   via: '1.1 varnish',
+664 verbose headers   'cache-control': 'max-age=300',
+664 verbose headers   etag: '"7336NMW3QJ5M4O7PZDA67PSI0"',
+664 verbose headers   age: '84',
+664 verbose headers   connection: 'keep-alive',
+664 verbose headers   'x-served-by': 'cache-sin6922-SIN',
+664 verbose headers   'x-cache': 'HIT',
+664 verbose headers   'x-cache-hits': '1',
+664 verbose headers   'x-timer': 'S1457067661.872568,VS0,VE0',
+664 verbose headers   vary: 'Accept' }
+665 silly get cb [ 304,
+665 silly get   { date: 'Fri, 04 Mar 2016 05:01:01 GMT',
+665 silly get     via: '1.1 varnish',
+665 silly get     'cache-control': 'max-age=300',
+665 silly get     etag: '"7336NMW3QJ5M4O7PZDA67PSI0"',
+665 silly get     age: '84',
+665 silly get     connection: 'keep-alive',
+665 silly get     'x-served-by': 'cache-sin6922-SIN',
+665 silly get     'x-cache': 'HIT',
+665 silly get     'x-cache-hits': '1',
+665 silly get     'x-timer': 'S1457067661.872568,VS0,VE0',
+665 silly get     vary: 'Accept' } ]
+666 verbose etag https://registry.npmjs.org/react-hot-loader from cache
+667 verbose get saving react-hot-loader to C:\Users\deergha\AppData\Roaming\npm-cache\registry.npmjs.org\react-hot-loader\.cache.json
+668 silly addNameTag next cb for react-hot-loader with tag latest
+669 silly addNamed react-hot-loader@1.3.0
+670 verbose addNamed "1.3.0" is a plain semver version for react-hot-loader
+671 silly cache afterAdd react-hot-loader@1.3.0
+672 verbose afterAdd C:\Users\deergha\AppData\Roaming\npm-cache\react-hot-loader\1.3.0\package\package.json not in flight; writing
+673 verbose afterAdd C:\Users\deergha\AppData\Roaming\npm-cache\react-hot-loader\1.3.0\package\package.json written
+674 verbose stack Error: Registry returned 404 for GET on https://registry.npmjs.org/babel-preset-es2015babel-preset-recat
+674 verbose stack     at makeError (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:264:12)
+674 verbose stack     at CachingRegistryClient.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:242:14)
+674 verbose stack     at Request._callback (C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-client\lib\request.js:172:14)
+674 verbose stack     at Request.self.callback (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:198:22)
+674 verbose stack     at emitTwo (events.js:87:13)
+674 verbose stack     at Request.emit (events.js:172:7)
+674 verbose stack     at Request.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:1082:10)
+674 verbose stack     at emitOne (events.js:82:20)
+674 verbose stack     at Request.emit (events.js:169:7)
+674 verbose stack     at IncomingMessage.<anonymous> (C:\Program Files\nodejs\node_modules\npm\node_modules\request\request.js:1009:12)
+675 verbose statusCode 404
+676 verbose pkgid babel-preset-es2015babel-preset-recat
+677 verbose cwd C:\Users\deergha\Desktop\react-todos
+678 error Windows_NT 6.2.9200
+679 error argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "i" "-D" "babel-core" "babel-loader" "babel-preset-es2015babel-preset-recat" "react-hot-loader" "webpack" "webpack-dev-server"
+680 error node v4.3.1
+681 error npm  v2.14.12
+682 error code E404
+683 error 404 Registry returned 404 for GET on https://registry.npmjs.org/babel-preset-es2015babel-preset-recat
+683 error 404
+683 error 404 'babel-preset-es2015babel-preset-recat' is not in the npm registry.
+683 error 404 You should bug the author to publish it (or use the name yourself!)
+683 error 404 It was specified as a dependency of 'react-todos'
+683 error 404
+683 error 404 Note that you can also install from a
+683 error 404 tarball, folder, http url, or git url.
+684 verbose exit [ 1, true ]
